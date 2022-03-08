@@ -1,0 +1,16 @@
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+H:\4C\GIT\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.AssemblyReference.cache
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+H:\4C\GIT\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
