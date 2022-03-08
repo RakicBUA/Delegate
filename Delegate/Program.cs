@@ -13,11 +13,23 @@ namespace Delegate
             do
             {
                 Console.WriteLine("Bitte geben sie eiine zahl ein");
-                int zahl = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Bitte eine zweite");
-                int zahl2 = Convert.ToInt32(Console.ReadLine());
+                //int zahl = Convert.ToInt32(Console.ReadLine());
+                bool res;
+                int a;
+                string myStr = Console.ReadLine();
+                res = int.TryParse(myStr, out a);
 
-                
+                bool res2;
+                int b;
+               
+
+                Console.WriteLine("Bitte eine zweite");
+                string myStr2 = Console.ReadLine();
+                res2 = int.TryParse(myStr2, out b);
+
+                // int zahl2 = Convert.ToInt32(Console.ReadLine());
+
+
                 Console.WriteLine("S oder a");
                 s = Console.ReadKey();
               
@@ -25,13 +37,13 @@ namespace Delegate
                 {
                     
                     Console.Clear();
-                    int ergebnis = zahl - zahl2;
+                    int ergebnis = a - b;
                     Console.WriteLine("Das Ergebnis lautet: "+ergebnis);
                 }
                 else if (s.Key == ConsoleKey.A)
                 {
                     Console.Clear();
-                    int ergebnis2 = zahl + zahl2;
+                    int ergebnis2 = a + b;
                     Console.WriteLine("Das Ergebnis lautet: " + ergebnis2);
                 }
 
